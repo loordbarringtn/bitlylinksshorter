@@ -20,12 +20,16 @@ pip install -r requirements.txt
 для укорачивания:
 
 ````
-main.py https://dvmn.org/modules/web-api/lesson/bitly/
+main.py http://yandex.ru
+
 ````
 либо bitly-ссылку для отображения статистики переходов по ней:
 
+````
+python3 main.py bit.ly/311nDfV
 
+````
 
 ### Цель проекта
 
-Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://
+Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
