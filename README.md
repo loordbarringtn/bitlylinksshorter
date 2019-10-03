@@ -20,7 +20,7 @@ pip install -r requirements.txt
 для укорачивания:
 
 ````
-main.py http://yandex.ru
+python3 main.py http://yandex.ru
 
 ````
 либо bitly-ссылку для отображения статистики переходов по ней:
